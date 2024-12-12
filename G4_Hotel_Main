@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 public class HotelG4_MethodDesigns {
     //Second Method Design:
-   
+   //dwasdw
     public static void mainMenu() 
     {
         DecimalFormat df = new DecimalFormat("0.00");
